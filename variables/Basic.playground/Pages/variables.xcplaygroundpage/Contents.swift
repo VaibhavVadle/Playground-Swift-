@@ -41,3 +41,6 @@ print(occupations)
 
 fruits.append("blueberries")
 print(fruits)
+
+let emptyArray: [String] = []
+let emptyDictionary: [String: Float] = [:]
