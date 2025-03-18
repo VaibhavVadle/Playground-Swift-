@@ -42,3 +42,45 @@ func returnFifteen() -> Int {
     return y
 }
 returnFifteen()
+
+// Returning another function - Functions are a first-class type. This means that a function can return another function as its value)
+func makeIncrementer () -> ((Int) -> Int) {
+    func addOne(number: Int) -> Int {
+        return 1 + number
+    }
+    return addOne
+}
+var increment = makeIncrementer()
+increment(7)
+
+// Passing another function in its function argument
+func hasAnyMatches(list:[Int],condition:((Int)-> Bool)) -> Bool {
+    for item in list {
+        if condition(item) {
+            return true
+        }
+    }
+    return false
+}
+
+func lessThanTen (_ number: Int) -> Bool {
+    return number < 10
+}
+
+var numbers = [23,34,9,45]
+hasAnyMatches(list: numbers, condition: lessThanTen)
+
+// Closures
+numbers.map({
+    (number: Int) -> Int in
+    let result = 3 * number
+    return result
+})
+
+// Single statement closure
+let mappedNumbers = numbers.map({ number in 3 * number })
+print(mappedNumbers)
+
+// sorted list
+let sortedNumbers = numbers.sorted { $0 > $1 }
+print(sortedNumbers)
