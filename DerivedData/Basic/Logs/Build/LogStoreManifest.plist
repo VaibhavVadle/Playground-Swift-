@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>04A2D75C-C886-4E00-BF22-311C89CE1A6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>04A2D75C-C886-4E00-BF22-311C89CE1A6F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Basic</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Basic (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Basic (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>764440748.24029899</real>
+			<key>timeStoppedRecording</key>
+			<real>764440748.398911</real>
+			<key>title</key>
+			<string>Build Basic (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>04A2D75C-C886-4E00-BF22-311C89CE1A6F</string>
+		</dict>
+		<key>49F75D69-BE5C-44BA-AE59-4DFA15DEA45E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49F75D69-BE5C-44BA-AE59-4DFA15DEA45E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Basic</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Basic (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Basic (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>764440751.36969101</real>
+			<key>timeStoppedRecording</key>
+			<real>764440751.42667997</real>
+			<key>title</key>
+			<string>Build Basic (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>49F75D69-BE5C-44BA-AE59-4DFA15DEA45E</string>
+		</dict>
+		<key>C2253D76-8270-44BD-BD74-C5104C12AA7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C2253D76-8270-44BD-BD74-C5104C12AA7C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Basic</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Basic (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Basic (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>764440715.245139</real>
+			<key>timeStoppedRecording</key>
+			<real>764440715.47054303</real>
+			<key>title</key>
+			<string>Build Basic (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>C2253D76-8270-44BD-BD74-C5104C12AA7C</string>
+		</dict>
+		<key>DC731283-3F11-4A98-80EB-B13C8AF01842</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC731283-3F11-4A98-80EB-B13C8AF01842.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Basic</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Basic (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Basic (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>764440624.555457</real>
+			<key>timeStoppedRecording</key>
+			<real>764440624.60272598</real>
+			<key>title</key>
+			<string>Build Basic (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>DC731283-3F11-4A98-80EB-B13C8AF01842</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

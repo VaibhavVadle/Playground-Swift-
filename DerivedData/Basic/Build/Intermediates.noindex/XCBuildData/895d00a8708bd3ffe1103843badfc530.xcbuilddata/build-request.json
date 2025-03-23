@@ -1,0 +1,337 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:ControlFlow_PageSources-PLAYGROUND-TARGET:/Users/vaibhav/Documents/GitHub/Playground-Swift-/Basic.playground/Pages/ControlFlow.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Products",
+          "derivedDataPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Intermediates.noindex",
+              "SYMROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "5FA07071-EC6D-46E6-AB40-45F77B4124E4",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:EnumerationsAndStructures_PageSources-PLAYGROUND-TARGET:/Users/vaibhav/Documents/GitHub/Playground-Swift-/Basic.playground/Pages/EnumerationsAndStructures.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Products",
+          "derivedDataPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Intermediates.noindex",
+              "SYMROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "5FA07071-EC6D-46E6-AB40-45F77B4124E4",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:FunctionsAndClosure_PageSources-PLAYGROUND-TARGET:/Users/vaibhav/Documents/GitHub/Playground-Swift-/Basic.playground/Pages/FunctionsAndClosure.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Products",
+          "derivedDataPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Intermediates.noindex",
+              "SYMROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "5FA07071-EC6D-46E6-AB40-45F77B4124E4",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:ObjectAndClasses_PageSources-PLAYGROUND-TARGET:/Users/vaibhav/Documents/GitHub/Playground-Swift-/Basic.playground/Pages/ObjectAndClasses.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Products",
+          "derivedDataPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Intermediates.noindex",
+              "SYMROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "5FA07071-EC6D-46E6-AB40-45F77B4124E4",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:Variables_PageSources-PLAYGROUND-TARGET:/Users/vaibhav/Documents/GitHub/Playground-Swift-/Basic.playground/Pages/Variables.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Products",
+          "derivedDataPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Intermediates.noindex",
+              "SYMROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "5FA07071-EC6D-46E6-AB40-45F77B4124E4",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:Basic_Sources-PLAYGROUND-TARGET:/Users/vaibhav/Documents/GitHub/Playground-Swift-/Basic.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Products",
+          "derivedDataPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Intermediates.noindex",
+              "SYMROOT" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/Playgrounds/Basic/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "5FA07071-EC6D-46E6-AB40-45F77B4124E4",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/Basic.playground",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Products",
+      "derivedDataPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vaibhav/Documents/GitHub/Playground-Swift-/DerivedData/Basic/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "5FA07071-EC6D-46E6-AB40-45F77B4124E4",
+          "TARGET_DEVICE_MODEL" : "iPad14,5",
+          "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,7 @@
+Target dependency graph (6 targets)
+Target 'Basic_Sources' in project 'Basic_Sources' (no dependencies)
+Target 'Variables_PageSources' in project 'Basic_Sources' (no dependencies)
+Target 'ObjectAndClasses_PageSources' in project 'Basic_Sources' (no dependencies)
+Target 'FunctionsAndClosure_PageSources' in project 'Basic_Sources' (no dependencies)
+Target 'EnumerationsAndStructures_PageSources' in project 'Basic_Sources' (no dependencies)
+Target 'ControlFlow_PageSources' in project 'Basic_Sources' (no dependencies)
