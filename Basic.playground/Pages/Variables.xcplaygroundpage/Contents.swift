@@ -1,4 +1,3 @@
-print("Hello, world!")
 var myVariable = 42
 myVariable = 50
 // Use let to create a constant variable
@@ -44,3 +43,6 @@ print(fruits)
 
 let emptyArray: [String] = []
 let emptyDictionary: [String: Float] = [:]
+
+// String interpolation
+print("Sum of 2 & 3 is \(2+3)")
